@@ -9,7 +9,7 @@
  * Return: nothing
  */
 
-void swap_int(int *a, int *b) 
+void swap_int(int *a, int *b)
 {
 
 	int c;
@@ -18,3 +18,4 @@ void swap_int(int *a, int *b)
 	*a = *b;
 	*b = c;
 }
+
